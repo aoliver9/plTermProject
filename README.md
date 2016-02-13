@@ -1,3 +1,0 @@
-# plTermProject
-
-#First Edit made
